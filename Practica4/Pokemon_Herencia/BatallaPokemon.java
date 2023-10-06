@@ -5,12 +5,12 @@ public class BatallaPokemon  {
         PokemonPlanta SpriGatito = new PokemonPlanta("SpriGatito", 10);
 
         Oshawott.atacar("Caparaconcha afilada", SpriGatito);
-        SpriGatito.HpRestante(SpriGatito);
+        SpriGatito.HpRestante();
 
         System.out.println();
 
         SpriGatito.atacar("Látigo", Oshawott);
-         Oshawott.HpRestante(Oshawott);
+        Oshawott.HpRestante();
 
     }
 }

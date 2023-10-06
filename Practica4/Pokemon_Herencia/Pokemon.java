@@ -24,8 +24,8 @@ public class Pokemon {
         pokemon.recibirAtaque( movimiento);
     }
 
-    public void HpRestante(Pokemon pokemon){
-        System.out.println( pokemon.getNombre()+ " tiene " + this.getHP() + " puntos de vida");
+    public void HpRestante(){
+        System.out.println( this.getNombre() + " ahora tiene " + this.getHP() + " puntos de vida");
     }
 
     public int getHP() {
