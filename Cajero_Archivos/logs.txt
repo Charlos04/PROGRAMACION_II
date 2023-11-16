@@ -1,0 +1,2 @@
+Movimiento: Consulta de saldo, Usuario: Carlos, Cantidad: $32721, ¿Se realizó correctamente? SI
+Movimiento: Consulta de saldo, Usuario: carlos, Cantidad: $42510, ¿Se realizó correctamente? SI
